@@ -1,0 +1,3 @@
+Groupe : Ayoub , Ghali , Hamza
+Nom de project : ( JavaScript Hotel Brief ) 
+Lien trello : https://trello.com/b/t1QxEFqH/brief-3-hotel-javascript
